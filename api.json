@@ -1,0 +1,408 @@
+{
+  "category": "GHOST",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/nightmarchers",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "nightmarchers",
+    "name": "Night Marchers",
+    "aliases": [
+      {
+        "name": "Huaka'i pō",
+        "language": "Hawaiian",
+        "region": "Hawaii",
+        "meaning": "night procession" or "spirit procession"
+      },
+      {
+        "name": "Spirit Warriors",
+        "language": "English",
+        "region": "Hawaii"
+      },
+      {
+        "name": "Ghost Warriors",
+        "language": "English",
+        "region": "Hawaii"
+      }
+    ],
+    "category": "GHOST",
+    "subcategory": "Ancestral Spirit/Entity",
+    "tags": [
+      "ghost",
+      "spirit",
+      "hawaiian",
+      "ancestral",
+      "warriors",
+      "procession",
+      "sacred",
+      "death-omen",
+      "cultural-tradition"
+    ],
+    "status": "active_spiritual_belief",
+    "description": {
+      "summary": "Huaka'i pō, or Night Marchers, are ghostly processions of ancient Hawaiian warriors' spirits who march from dusk to dawn along sacred paths, returning to their resting places. Looking directly at them brings death unless an ancestor is among them.",
+      "full": "The Night Marchers, known in Hawaiian as Huaka'i pō (spirit procession), are one of the most sacred and feared phenomena in Hawaiian spiritual tradition. They are the spirits of ancient Hawaiian warriors, ali'i (chiefs), and their attendants who march in ghostly procession through the night, following ancient trails and sacred paths. The procession is heralded by the sound of drums, chanting, and the blowing of conch shells (pū), accompanied by torches lighting the way. These warriors, dressed in traditional garb and carrying weapons, march from sunset to sunrise, returning to their resting places. Witnessing the Night Marchers is extremely dangerous—looking directly at them means certain death, with the only exception being if one of your ancestors is among the procession. To survive an encounter, one must immediately strip naked and lie face down, showing complete respect and submission. The Night Marchers are not malevolent but are protecting sacred sites and ancestral paths. Modern sightings continue to be reported, especially near historical sites, burial grounds, and along ancient trails."
+    },
+    "etymology": {
+      "origin": "Hawaiian 'Huaka'i pō' - huaka'i means 'procession' or 'journey,' pō means 'night'",
+      "meaning": "Night procession, spirit march, journey of spirits in darkness",
+      "traditional_names": "Various Hawaiian names depending on specific processions and locations"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "GHOST",
+      "type": "Ancestral Spirit",
+      "subtype": "Warrior spirits/Procession",
+      "variant": "Hawaiian"
+    },
+    "related_phenomena": [
+      {
+        "id": "wild-hunt",
+        "name": "Wild Hunt",
+        "relationship": "similar",
+        "description": "European ghostly procession of hunters"
+      },
+      {
+        "id": "ghosts",
+        "name": "Ghosts",
+        "relationship": "category",
+        "description": "Broader category of spirit beings"
+      },
+      {
+        "id": "ancestral-spirits",
+        "name": "Ancestral Spirits",
+        "relationship": "type",
+        "description": "Spirits of deceased ancestors"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Translucent or ghostly figures of ancient Hawaiian warriors",
+      "features": [
+        {
+          "feature": "Traditional dress",
+          "description": "Warriors wear traditional Hawaiian garb, malo (loincloth), feathered capes and helmets",
+          "frequency": "always"
+        },
+        {
+          "feature": "Weapons",
+          "description": "Carry traditional weapons - spears, clubs, daggers",
+          "frequency": "always"
+        },
+        {
+          "feature": "Torches",
+          "description": "Torches light the procession's path, sometimes described as floating lights",
+          "frequency": "always"
+        },
+        {
+          "feature": "Drums",
+          "description": "Accompanied by sound of drums (pahu)",
+          "frequency": "common"
+        },
+        {
+          "feature": "Conch shell",
+          "description": "Pū (conch shell trumpet) announces their approach",
+          "frequency": "common"
+        },
+        {
+          "feature": "Chiefs/Ali'i",
+          "description": "High-ranking chiefs in elaborate dress may lead procession",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Spectral procession of warriors, ranging from dozens to hundreds of figures marching in formation"
+    },
+    "abilities": [
+      {
+        "ability": "Death curse",
+        "description": "Looking directly at the procession brings death to the observer",
+        "frequency": "always",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Ancestral recognition",
+        "description": "Will not harm those who have an ancestor among the marchers",
+        "frequency": "occasional",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Path following",
+        "description": "Follow ancient sacred trails regardless of modern development",
+        "frequency": "always",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Physical manifestation",
+        "description": "Can produce audible sounds (drums, chanting, shells) and visible lights",
+        "frequency": "common",
+        "evidence_level": "reported"
+      }
+    ],
+    "behavior": {
+      "activity_period": "night",
+      "timing": "From dusk to dawn, especially on moonless nights",
+      "disposition": "protective",
+      "purpose": "Returning to resting places, protecting sacred sites and ancestral paths",
+      "habitat_preference": [
+        "ancient trails",
+        "sacred paths",
+        "historical sites",
+        "burial grounds",
+        "heiau (temples)",
+        "coastal areas"
+      ],
+      "patterns": [
+        "March in organized military procession",
+        "Follow specific ancient routes",
+        "Accompanied by drums, chanting, conch shells",
+        "Torches light their way",
+        "March from sunset to sunrise",
+        "Return to same locations repeatedly",
+        "More common on certain sacred nights"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Hawaiian Islands - all major islands have Night Marcher traditions and sightings",
+      "continents": ["Oceania"],
+      "countries": ["United States (Hawaii)"],
+      "regions": [
+        "Oahu",
+        "Maui",
+        "Big Island (Hawaii)",
+        "Kauai",
+        "Molokai",
+        "Lanai"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Nu'uanu Pali",
+        "location": {
+          "description": "Nu'uanu Pali Lookout",
+          "country": "United States",
+          "region": "Oahu, Hawaii",
+          "coordinates": {
+            "latitude": 21.3647,
+            "longitude": -157.7935
+          }
+        },
+        "significance": "Site of historic 1795 battle, frequent Night Marcher sightings"
+      },
+      {
+        "name": "Iao Valley",
+        "location": {
+          "description": "Iao Valley State Park",
+          "country": "United States",
+          "region": "Maui, Hawaii",
+          "coordinates": {
+            "latitude": 20.8831,
+            "longitude": -156.5436
+          }
+        },
+        "significance": "Sacred valley, site of battles, strong Night Marcher tradition"
+      },
+      {
+        "name": "Waimea Valley",
+        "location": {
+          "description": "Waimea Valley",
+          "country": "United States",
+          "region": "Oahu, Hawaii"
+        },
+        "significance": "Sacred area with ancient heiau, reported processions"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-contact",
+        "circa": true,
+        "source": "Ancient Hawaiian oral traditions predating European contact"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Moonless nights",
+          "description": "Especially active on dark nights"
+        },
+        {
+          "period": "Traditional Hawaiian sacred times",
+          "description": "Certain days in Hawaiian calendar considered more active"
+        }
+      ],
+      "modern_reports": "Ongoing - contemporary sightings continue to be reported"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient Hawaiian spiritual beliefs and warrior traditions. The Night Marchers are spirits of deceased ali'i (chiefs) and warriors protecting sacred sites and ancestral paths.",
+      "earliest_accounts": "Pre-contact oral traditions, passed down through generations",
+      "folklore_connections": "Integral part of Hawaiian spiritual worldview, connected to concepts of mana (spiritual power), kapu (sacred restrictions), and ancestor veneration"
+    },
+    "timeline": [
+      {
+        "date": "Pre-1778",
+        "event": "Pre-contact traditions",
+        "significance": "Huaka'i pō established in Hawaiian oral tradition and spiritual practice",
+        "source": "Oral traditions"
+      },
+      {
+        "date": "1795",
+        "event": "Battle of Nu'uanu",
+        "significance": "Major battle where Kamehameha I unified the islands; site becomes major Night Marcher location",
+        "source": "Historical records"
+      },
+      {
+        "date": "19th century",
+        "event": "First written accounts",
+        "significance": "Western documentation begins recording Night Marcher traditions and encounters",
+        "source": "Early ethnographic records"
+      },
+      {
+        "date": "20th-21st century",
+        "event": "Continued sightings",
+        "significance": "Modern reports continue despite urbanization, particularly near historical sites",
+        "source": "Contemporary accounts"
+      }
+    ],
+    "modern_era": "The Night Marchers remain an active part of Hawaiian spiritual belief and cultural identity. Modern Hawaiians continue to respect ancient paths and sacred sites. Reports persist even in developed areas, especially near historical battlegrounds and burial sites. The tradition serves as a connection to ancestral heritage and as a reminder to respect Hawaiian sacred places."
+  },
+
+  "protection_protocols": {
+    "if_encountered": [
+      {
+        "method": "Lie face down naked",
+        "description": "Immediately remove all clothing and lie face down on the ground, showing complete submission and respect",
+        "effectiveness": "traditional_protection"
+      },
+      {
+        "method": "Do not look",
+        "description": "Never look directly at the procession - keep eyes averted or closed",
+        "effectiveness": "critical"
+      },
+      {
+        "method": "Show respect",
+        "description": "Demonstrate complete reverence and humility",
+        "effectiveness": "essential"
+      },
+      {
+        "method": "Avoid the path",
+        "description": "Best protection is to avoid known Night Marcher paths entirely, especially at night",
+        "effectiveness": "prevention"
+      }
+    ],
+    "warnings": [
+      "Death is the consequence of looking directly at the procession",
+      "Only exception: if one of your ancestors is among the marchers",
+      "Do not interfere with or block their path",
+      "Do not disrespect sacred sites or ancient trails"
+    ]
+  },
+
+  "cultural": {
+    "indigenous": {
+      "cultures": [
+        "Native Hawaiian"
+      ],
+      "significance": "SACRED TRADITION - The Night Marchers are a central part of Hawaiian spiritual belief, representing the continued presence and protection of ancestors. They embody the concept that ancestors watch over sacred places and that proper respect must be shown to Hawaiian spiritual traditions.",
+      "sensitivity_note": "CRITICAL: This is an active, sacred Hawaiian spiritual tradition. The Night Marchers are not folklore or legend to Native Hawaiians but part of living spiritual practice. Approach with utmost respect. Consult with Hawaiian cultural practitioners and kupuna (elders) regarding sacred sites. Do not trespass on sacred lands or disturb Hawaiian cultural sites in pursuit of encounters.",
+      "respect_guidelines": [
+        "Treat Night Marcher traditions as sacred spiritual beliefs, not entertainment",
+        "Respect kapu (sacred prohibitions) and sacred sites",
+        "Seek permission before entering sacred areas",
+        "Learn from Hawaiian cultural authorities and kupuna",
+        "Do not exploit or commercialize these traditions",
+        "Respect the spiritual significance to Hawaiian people"
+      ]
+    },
+    "beliefs": [
+      "Spirits of ali'i (chiefs) and ancient warriors",
+      "Protect sacred sites and ancestral paths",
+      "Return to their resting places each night",
+      "Connected to Hawaiian concepts of mana and spiritual power",
+      "Part of ancestor veneration practices"
+    ],
+    "popular_culture": {
+      "literature": [
+        "Featured in Hawaiian folklore collections",
+        "Subject of local ghost story anthologies",
+        "Mentioned in various books on Hawaiian spirituality"
+      ],
+      "media": [
+        "Featured in Hawaii-based supernatural shows",
+        "Subject of local documentaries",
+        "Ghost hunting programs"
+      ],
+      "tourism": [
+        "Ghost tours mention Night Marchers (often controversially)",
+        "Part of Hawaiian cultural education programs",
+        "Warning signs at some historical sites"
+      ],
+      "respect_note": "Commercial exploitation of Night Marcher traditions is controversial and considered disrespectful by many Hawaiian cultural practitioners"
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Mary Kawena Pukui",
+        "field": "Hawaiian culture and language",
+        "contribution": "Documented Hawaiian traditions and spiritual beliefs",
+        "period": "20th century"
+      },
+      {
+        "name": "Martha Beckwith",
+        "field": "Folklore and mythology",
+        "contribution": "Documented Hawaiian mythology and ghost traditions",
+        "period": "Early 20th century"
+      }
+    ],
+    "academic_focus": "Studied primarily in Hawaiian studies, Pacific Islander anthropology, and folklore departments. Research emphasizes cultural context and spiritual significance within Hawaiian worldview.",
+    "ethical_considerations": "Research must be conducted with full respect for Hawaiian cultural sovereignty and spiritual beliefs. Consultation with Hawaiian cultural practitioners is essential."
+  },
+
+  "sources": [
+    {
+      "id": "pukui-1972",
+      "type": "book",
+      "title": "Hawaiian Ghosts and Ghost Stories",
+      "authors": ["Mary Kawena Pukui"],
+      "publication": "Mutual Publishing",
+      "date": "1972"
+    },
+    {
+      "id": "beckwith-1970",
+      "type": "book",
+      "title": "Hawaiian Mythology",
+      "authors": ["Martha Beckwith"],
+      "publication": "University of Hawaii Press",
+      "date": "1970"
+    },
+    {
+      "id": "oral-traditions",
+      "type": "oral_tradition",
+      "title": "Hawaiian oral traditions",
+      "description": "Passed down through generations of Hawaiian cultural practitioners and families"
+    }
+  ]
+}
