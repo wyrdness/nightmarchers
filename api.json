@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/nightmarchers",
     "maintainers": [
       {
@@ -16,72 +16,123 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "nightmarchers",
     "name": "Night Marchers",
-    "aliases": [],
-    "category": "|_BROADER_SPIRIT_CATEGORY_|",
-    "subcategory": "| Venerated ancestor spirits |",
+    "aliases": [
+      { "name": "Huakaʻi pō", "language": "Hawaiian", "meaning": "'Procession of the night'" },
+      { "name": "ʻOiʻo", "language": "Hawaiian", "meaning": "'Spirit Ranks'" },
+      { "name": "Nā Huakaʻi o ka Pō", "language": "Hawaiian", "meaning": "'The processions of the night'" }
+    ],
+    "category": "GHOST_HAUNTING",
+    "subcategory": "Ancestral spirit procession",
     "tags": [
-      "folklore",
-      "mythology"
+      "hawaii",
+      "polynesia",
+      "ghost-procession",
+      "ancestor-spirits",
+      "warriors",
+      "torches",
+      "drums",
+      "nocturnal"
     ],
     "status": "documented",
     "description": {
-      "summary": "The **Night Marchers** (Hawaiian: **Huaka'i pō**, \\\"spirit procession\\\") are ghostly processions of ancient Hawaiian warriors' spirits who march from dusk to dawn along sacred paths throughout the Hawaiian Islands.",
-      "full": "The **Night Marchers** (Hawaiian: **Huaka'i pō**, \\\"spirit procession\\\") are ghostly processions of ancient Hawaiian warriors' spirits who march from dusk to dawn along sacred paths throughout the Hawaiian Islands. These are the spirits of deceased ali'i (chiefs), warriors, and their attendants, returning to their resting places and protecting ancestral sites. The procession is announced by the sound of drums (pahu), chanting, and the blowing of conch shells (pū). Torches light their way as they march in military formation, dressed in traditional Hawaiian warrior garb and carrying ancient weapons. The Night Marchers follow ancient trails regardless of modern development, passing through cities and over highways as they trace their sacred paths."
+      "summary": "Spectral processions of ancient Hawaiian warriors said to march along ancient trails in the islands at night, escorting deceased aliʻi and dangerous to mortals who look upon them.",
+      "full": "In Hawaiian tradition the Night Marchers, or Huakaʻi pō ('procession of the night'), are the spirits of ancient Hawaiian warriors and their attendants, marching as the vanguard or escort of a sacred king, chief, or chiefess. They are also called ʻoiʻo, 'spirit ranks'. They are said to emerge from their burial sites or rise from the sea on nights honoring the gods Kāne, Kū, Lono, or Kanaloa, and to follow ancient trails between heiau (temples), villages, and battlefields — paths that often predate modern roads. Witnesses describe the marchers as warriors in battle dress carrying spears and clubs, sometimes accompanied by drums (pahu), conch shells (pū), chants, torches, and a foul, musky odor; their feet are said not to touch the ground. Tradition holds that any mortal who looks upon the marchers in defiance will die violently, but that lying motionless face-down, or being recognised by an ancestor in the procession who calls out 'Naʻu!' ('mine!'), affords protection. Planting kī (ti, Cordyline fruticosa) is said to keep the marchers away from a dwelling."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Hawaiian",
+      "meaning": "Huakaʻi = 'procession, journey'; pō = 'night'; ʻoiʻo = 'spirit ranks'",
+      "first_use": "Pre-contact Hawaiian oral tradition"
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "|_BROADER_SPIRIT_CATEGORY_|",
-      "type": "| Venerated ancestor spirits |",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "GHOST_HAUNTING",
+      "type": "Spectral procession",
+      "subtype": "Ancestral warrior spirits",
+      "variant": "Hawaiian / Polynesian"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "wild-hunt", "name": "The Wild Hunt", "relationship": "similar", "description": "European spectral procession of dead warriors and hunters" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Warrior dress", "description": "Marchers appear in traditional Hawaiian warrior garb, carrying spears and clubs", "frequency": "always" },
+        { "feature": "Torches", "description": "Bright torches that intensify as the procession nears", "frequency": "common" },
+        { "feature": "Drums and conches", "description": "Pahu drums and pū (conch shells) announcing the march", "frequency": "common" },
+        { "feature": "Foul, musky odor", "description": "A 'death-like' smell often precedes or accompanies the procession", "frequency": "common" },
+        { "feature": "Feet not touching the ground", "description": "Marchers are described as suspended just above the earth, leaving no trace", "frequency": "always" }
+      ],
+      "morphology": "Human-sized warrior spirits in formation; in some accounts gods or chiefly figures are at the centre of the procession."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Lethal gaze", "description": "Mortals who look upon the procession in defiance are said to die violently", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Trans-environmental travel", "description": "March along ancient trails regardless of modern development, passing through buildings and over water", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Audible and olfactory presence", "description": "Drums, chant, conch tones, and a foul odor announce their approach", "frequency": "always", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "pack",
+      "habitat_preference": ["ancient Hawaiian trails", "heiau (temples)", "battlefields", "burial sites", "the coast"],
+      "patterns": [
+        "March from dusk until just before sunrise",
+        "Most active on the sacred nights of Kāne, Kū, Lono, and Kanaloa",
+        "Follow fixed ancestral routes regardless of modern infrastructure"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reports are concentrated on the Hawaiian Islands, particularly along ancient trails, near heiau, and at recorded battlefields.",
+      "continents": ["Oceania"],
+      "countries": ["United States"],
+      "regions": ["Hawaiian Islands"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Ancient Hawaiian trail network",
+        "location": {
+          "description": "Pre-contact Hawaiian foot trails connecting villages, heiau, and battlefields across the islands",
+          "country": "United States",
+          "region": "Hawaii"
+        },
+        "notes": "Marchers are said to follow these ancestral routes"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-contact",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Hawaiian oral tradition"
+      },
+      "peak_activity_periods": [
+        { "period": "Sacred nights of Kāne, Kū, Lono, and Kanaloa", "description": "The lunar nights honoring these akua are cited as primary times of march" }
+      ],
+      "seasonal_patterns": "Tied to the Hawaiian lunar calendar rather than seasons."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Pre-contact Hawaiian (Kanaka Maoli) tradition. The Huakaʻi pō reflect Hawaiian beliefs that the dead continue to serve their chiefs and gods in the afterlife.",
+      "earliest_accounts": "Hawaiian oral tradition predating European contact (1778); recorded in 19th- and 20th-century Hawaiian-language and English-language ethnographic literature.",
+      "folklore_connections": "Linked to broader Polynesian beliefs about the spirits of warriors, sacred nights, and pō (the realm of night/the dead)."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "Pre-contact", "event": "Hawaiian oral tradition of Huakaʻi pō and ʻOiʻo predates European contact", "significance": "Cultural baseline", "source": "Hawaiian oral tradition" }
+    ],
+    "modern_era": "The Huakaʻi pō remain a living part of Hawaiian tradition. They are widely discussed in contemporary Hawaiian community life and have become a fixture of popular Hawaiian ghost lore through writers and storytellers including Glen Grant and Lopaka Kapanui."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +143,107 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "nightmarchers-evidence-oral",
+        "type": "oral tradition",
+        "name": "Hawaiian oral tradition",
+        "description": "Body of Hawaiian oral and written tradition describing Huakaʻi pō / ʻOiʻo processions and the rules governing encounters with them.",
+        "status": "unverified",
+        "analysis": "Treated as an integral part of Hawaiian cultural knowledge.",
+        "source": "Hawaiian oral tradition; 19th–20th century Hawaiian-language sources"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Ancestral spirit procession",
+        "description": "Within Hawaiian tradition the Huakaʻi pō are real spirits of ancestral warriors continuing to serve their chiefs along sacred routes.",
+        "proponents": ["Hawaiian oral tradition"],
+        "evidence_cited": ["Continuity of accounts across the islands", "Connection to specific trails and heiau"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Cultural and psychological framing",
+        "description": "Outside the tradition, encounters are sometimes framed as misperception of natural phenomena (light, sound, wind on ridge trails) interpreted through a robust cultural template.",
+        "proponents": ["Comparative folklorists"],
+        "evidence_cited": ["Consistency of phenomenological cues (drums, torches, smell) within a strong narrative framework"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Huakaʻi pō / ʻoiʻo processions",
+        "Sacred nights of Kāne, Kū, Lono, Kanaloa",
+        "Planting kī (ti) as a protective boundary marker",
+        "Lying face-down to show deference to the procession"
+      ],
+      "stories": [
+        "Accounts of mortals saved by an ancestor who calls out 'Naʻu!' ('mine')",
+        "Modern community accounts of marches passing through homes built across ancient trails"
+      ],
+      "beliefs": "Many Hawaiians treat the Huakaʻi pō as real and dangerous; building practices, plantings, and personal conduct continue to acknowledge them in some communities."
+    },
+    "indigenous": {
+      "cultures": ["Kanaka Maoli (Native Hawaiian)"],
+      "significance": "A central element of Hawaiian afterlife beliefs and respect for aliʻi, ancestors, and sacred land. The marchers connect the living to the deeds and routes of pre-contact Hawaiʻi.",
+      "sensitivity_note": "Huakaʻi pō traditions are part of a living Indigenous worldview, not mere ghost stories. Cryptozoological or 'haunting' framings should defer to Hawaiian sources.",
+      "respect_guidelines": "Cite Hawaiian-language sources and Native Hawaiian tradition bearers; respect place names and trails; do not commercialise sacred sites or ceremonies."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Obake Files / Obake: Ghost Stories in Hawaiʻi — Glen Grant",
+        "Hawaii's Night Marchers: A History of the Huakaʻi Pō — Lopaka Kapanui (2023)"
+      ],
+      "film_tv": [
+        "Lilo & Stitch: The Series episode 'Belle' (2005)",
+        "Finding ʻOhana (Netflix, 2021)"
+      ],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Hawaiʻi-based ghost-tour companies feature Huakaʻi pō traditions"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Glen Grant", "affiliation": "Independent (Hawaiian folklore)", "contribution": "Compiled and published widely-read collections of Hawaiian ghost stories, including Huakaʻi pō accounts", "period": "1980s–2003" },
+      { "name": "Lopaka Kapanui", "affiliation": "Mysteries of Hawaiʻi (storyteller)", "contribution": "Native Hawaiian storyteller and author on Huakaʻi pō and Hawaiian supernatural traditions", "period": "1990s–present" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Hawaiian community storytellers and Native Hawaiian cultural organisations continue to document and transmit Huakaʻi pō traditions."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-nightmarchers",
+      "type": "website",
+      "title": "Nightmarchers",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nightmarchers",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kapanui-2023",
+      "type": "book",
+      "title": "Hawaii's Night Marchers: A History of the Huakaʻi Pō",
+      "authors": ["Lopaka Kapanui", "Tanya Kapanui", "Alika Spahn Naihe"],
+      "date": "2023"
+    }
+  ]
 }
